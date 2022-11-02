@@ -8,4 +8,4 @@ Cosas por hacer:
 - Aprender que es un Fork. 
 - Ya conocemos los botones: push y pull.
 - Hacemos una prueba. , 
-- hola, esto es otra prueba
+- hola, esto es otra
